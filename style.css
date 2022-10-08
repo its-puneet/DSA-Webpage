@@ -1,4 +1,7 @@
 .main-title{
 	color: white;
-	font-size: 3em;
+	font-size: 40px;
+}
+.nav-item{
+	margin: 10px;
 }
